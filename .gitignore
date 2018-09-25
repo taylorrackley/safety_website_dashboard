@@ -1,0 +1,4 @@
+uploads/*
+php/connect.php
+*.png
+*.jpg
